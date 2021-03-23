@@ -9,6 +9,8 @@ Icestick demo using apio
  apio upload 
  ```
  ## Notes
+ uart module uses 2 stop bits
+ 
  use 
  ```bash
  apio build --verbose-pnr
