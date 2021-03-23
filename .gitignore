@@ -1,0 +1,7 @@
+# apio hardware files
+*.out
+*.json
+*.bin
+*.asc
+
+*.dblite
